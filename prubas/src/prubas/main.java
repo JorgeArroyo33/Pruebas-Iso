@@ -7,8 +7,9 @@ public class main {
 		
 		int matriz [][] =new int[1][2];
 		
-		System.out.println(matriz[2].length);
+		System.out.println(matriz[1].length);
 		//se actualiza o que putas pollas pasa
+		
 		
 	}
 }
