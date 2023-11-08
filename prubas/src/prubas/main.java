@@ -7,7 +7,7 @@ public class main {
 		
 		int matriz [][] =new int[1][2];
 		
-		System.out.println(matriz[1].length);
+		System.out.println(matriz[2].length);
 		
 		
 	}
